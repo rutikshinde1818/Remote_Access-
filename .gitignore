@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+bot_env/
+venv/
+.env
+
+# Logs and Data
+*.log
+bot_log.txt
+keylog.txt
+
+# OS
+.DS_Store
+.idea/
+.vscode/
